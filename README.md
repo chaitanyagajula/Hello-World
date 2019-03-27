@@ -1,4 +1,4 @@
-# Hello-World
+# Learn IT Online
 This is the first repository
 
 Hi this is Chaitanya.
